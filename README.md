@@ -14,4 +14,11 @@ Then,
 run main.py to train face super-resolution models.
 
 
-
+@inproceedings{hu2020face,
+  title={Face super-resolution guided by 3d facial priors},
+  author={Hu, Xiaobin and Ren, Wenqi and LaMaster, John and Cao, Xiaochun and Li, Xiaoming and Li, Zechao and Menze, Bjoern and Liu, Wei},
+  booktitle={European Conference on Computer Vision},
+  pages={763--780},
+  year={2020},
+  organization={Springer}
+}

@@ -1,0 +1,9 @@
+source activate facial_landmark
+
+
+python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat --image images/example_01.jpg 
+
+
+put the blur images in the file 'images'
+
+the landmarks will be stored in land_txt

@@ -13,6 +13,8 @@ After obtaining five facial key landmarks, we move the bbox.txt into the dataset
 run demo.py to generate the 3D facial relevant vector under training_set/[videos_folder_list]/face/.  </br>
 run demo_render.py to generate the rendered face results under dataset/[videos_folder_list]/face_render/. </br>
 
+![image](https://github.com/HUuxiaobin/Face-Super-Resolution-Guided-by-3D-Facial-Priors/blob/main/images/github2.JPG)
+
 Then,
 
 run main.py to train face super-resolution models.

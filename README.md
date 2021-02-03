@@ -20,6 +20,8 @@ Then,
 run main.py to train face super-resolution models.
 
 
+![image](https://github.com/HUuxiaobin/Face-Super-Resolution-Guided-by-3D-Facial-Priors/blob/main/images/github3.JPG)
+
 @inproceedings{hu2020face,
   title={Face super-resolution guided by 3d facial priors},
   author={Hu, Xiaobin and Ren, Wenqi and LaMaster, John and Cao, Xiaochun and Li, Xiaoming and Li, Zechao and Menze, Bjoern and Liu, Wei},

@@ -10,6 +10,8 @@ Basic Model:we uploaded a basic model, but in the further, we will further polis
 
 After obtaining five facial key landmarks, we move the bbox.txt into the dataset/[]/face. To get the 3D render priors, please enter into 3Dface_priors folder.   </br>
 
+To get BFM_model_front.mat, please download from google driver  https://drive.google.com/file/d/1fW1hvcg0Tk3PquNovyYIDjHC1Unq2Gfl/view?usp=sharing
+
 run demo.py to generate the 3D facial relevant vector under training_set/[videos_folder_list]/face/.  </br>
 run demo_render.py to generate the rendered face results under dataset/[videos_folder_list]/face_render/. </br>
 

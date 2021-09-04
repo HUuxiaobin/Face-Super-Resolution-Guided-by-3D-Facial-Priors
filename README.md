@@ -20,6 +20,12 @@ Then,
 
 run main.py to train face super-resolution models.
 
+For basic performance comparsion, you could refer to the pretrain model and test-data (20259) from google driver https://drive.google.com/file/d/1Q-0uYBDbKQxvCpiygFBHMflTycyDsUEg/view?usp=sharing
+</br>
+4 scale pretrain model:https://drive.google.com/file/d/1-sTJ213OmWpAYfQ48333J5UKvdvWHRU5/view?usp=sharing
+</br>
+8 scale pretrain model:https://drive.google.com/file/d/1oE4fmK5rz8ef97ooEyXpteOwCRIwZ7gZ/view?usp=sharing
+</br>
 
 ![image](https://github.com/HUuxiaobin/Face-Super-Resolution-Guided-by-3D-Facial-Priors/blob/main/images/github3.JPG)
 
